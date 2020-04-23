@@ -49,7 +49,7 @@ https://www.datafountain.cn/competitions/337
 平均绝对差值是用来衡量模型预测结果对标准结果的接近程度的一种衡量方法。计算方法如下：
 
 $$M A E=\frac{1}{n} \sum_{i=1}^{n}\left|p r e d_{i}-y_{i}\right|$$
-
+$$M A E=\frac{1}{n} \sum_{i=1}^{n}\left|p r e d_{i}-y_{i}\right|$$
 
  
 其中$ p r e d_{i}$为预测样本， $y_{i}$为真实样本。MAE的值越小，说明预测数据与真实数据越接近。
