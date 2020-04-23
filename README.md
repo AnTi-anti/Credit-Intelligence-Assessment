@@ -56,10 +56,10 @@ $$M A E=\frac{1}{n} \sum_{i=1}^{n}\left|p r e d_{i}-y_{i}\right|$$
 
 $$ Score =\frac{1}{1+M A E}$$
 
-
+$$ MSE=\frac{1}{n} \sum_{i=1}^{n}\left(\text {pred}_{i}-y_{i}\right)^{2}$$
  
  
 MSE对预测偏差越大的样本惩罚越大，因为加上平方之后数据会越来越大。
-$$M S E=\frac{1}{n} \sum_{i=1}^{n}\left(\text {pred}_{i}-y_{i}\right)^{2}$$
+
 
 最终的结果越接近1分数越高
