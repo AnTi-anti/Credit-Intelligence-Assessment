@@ -54,8 +54,7 @@ $$M A E=\frac{1}{n} \sum_{i=1}^{n}\left|p r e d_{i}-y_{i}\right|$$
 
 最终结果为：
 
-<img src="http://chart.googleapis.com/chart?cht=tx&chl=\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" style="border:none;">
-
+$$ Score =\frac{1}{1+M A E}$$
 
 $$M S E=\frac{1}{n} \sum_{i=1}^{n}\left(\text {pred}_{i}-y_{i}\right)^{2}$$
  
